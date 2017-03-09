@@ -6,10 +6,14 @@ Ce premier projet vous remet dans le bain après la piscine PHP : vous allez dev
 
 Objectives
 
-Gestion utilisateurs 
+Gestion utilisateurs
+
 Gestion permissions 
+
 Mailing 
+
 Sécurité / Validation de données 
+
 Skills
 
 DB & Data 
